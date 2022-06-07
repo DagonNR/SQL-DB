@@ -1,7 +1,7 @@
 # Uso de SQL DataBase
 En este repositorio tenemos una demostración del uso de SQL DataBase en Azure.
 
-![Microsoft-Azure-SQL-DB](images\Microsoft-Azure-SQL-DB.png)
+![Microsoft-Azure-SQL-DB](https://github.com/DagonNR/SQL-DB/blob/main/images/Microsoft-Azure-SQL-DB.png)
 
 ---
 
